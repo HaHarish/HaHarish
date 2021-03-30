@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish
 - 👀 I’m interested in Android app development using Kotlin.
 - 🌱 I’m currently learning latest technologies in Android app development
-- 💞️ I’m looking to collaborate on product based company.
+- 💞️ I’m looking to collaborate on Software development.
 - 📫 Reach me on harishselvarasu@gmail.com  +919994334629
 
 <!---
