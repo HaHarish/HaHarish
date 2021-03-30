@@ -2,7 +2,8 @@
 - 👀 I’m interested in Android app development using Kotlin.
 - 🌱 I’m currently learning latest technologies in Android app development
 - 💞️ I’m looking to collaborate on Software development.
-- 📫 Reach me on harishselvarasu@gmail.com  +919994334629
+- 📫 Email: harishselvarasu@gmail.com 
+- 📫 Mobile: +919994334629
 
 <!---
 HaHarish/HaHarish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
